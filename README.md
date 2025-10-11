@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**LukeKim-kr/LukeLAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Luke_LAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
